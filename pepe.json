@@ -1,0 +1,8 @@
+{
+  "name": "awesome-package",
+  "version": "1.0.0",
+  "babel": {
+    "extends": "awesome-config",
+    "plugins": ["lodash"]
+  }
+}

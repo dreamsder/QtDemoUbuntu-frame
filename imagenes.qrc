@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Imagenes/cabezal.png</file>
+        <file>Imagenes/circuloverde.png</file>
+        <file>Imagenes/cotizaciones.png</file>
+        <file>Imagenes/pie.png</file>
+        <file>Imagenes/tarjeta.png</file>
+        <file>Imagenes/cabezal2.png</file>
+        <file>Imagenes/cabezal.svg</file>
+        <file>Imagenes/cotizaciones.svg</file>
+        <file>Imagenes/sisteco.svg</file>
+        <file>Imagenes/sisteco.png</file>
+        <file>Imagenes/correcto.png</file>
+    </qresource>
+</RCC>

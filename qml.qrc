@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>script.mjs</file>
+        <file>date.mjs</file>
+        <file>TresD.qml</file>
+        <file>Cotizacion.qml</file>
+        <file>consultaPuntos.mjs</file>
+        <file>TarjetaCliente.qml</file>
+        <file>ConfiguracionColor.qml</file>
+        <file>temasColores.js</file>
+        <file>Particulas.qml</file>
+    </qresource>
+</RCC>
